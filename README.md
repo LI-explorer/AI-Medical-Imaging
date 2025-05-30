@@ -30,7 +30,7 @@ This dataset is licensed under **CC BY 4.0**
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/AI-Medical-Imaging-Recon.git
+git clone https://github.com/LI-explorer/AI-Medical-Imaging.git
 cd AI-Medical-Imaging-Recon
 
 # Install dependencies
