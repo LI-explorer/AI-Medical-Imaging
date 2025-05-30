@@ -14,7 +14,7 @@ A demo of the model pipeline and results is available in the `/notebooks` folder
 ## 🖼️ Sample Result
 
 | Low Dose Input | Reconstructed Output | Ground Truth |
-|----------------|----------------------|--------------|
+|----------------|----------------|----------------|
 | ![](results/input.png) | ![](results/output.png) | ![](results/groundtruth.png) |
 
 ## 📁 Dataset
