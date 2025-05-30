@@ -1,12 +1,14 @@
 # AI-Assisted Medical Image Reconstruction and Denoising
 
-This project focuses on using deep learning techniques to enhance and reconstruct low-dose medical images such as PET and MRI scans. The model architecture is based on U-Net, with potential for future extensions to diffusion models or physics-informed networks.
+This ongoing project focuses on applying deep learning techniques to medical imaging, aiming to enhance and reconstruct low-dose modalities such as PET and MRI scans. The current implementation is based on a U-Net architecture, with plans to extend the framework to include diffusion models and physics-informed networks.
+
+A demo of the model pipeline and results is available in the `/notebooks` folder.
 
 ## ✨ Features
 
 - Denoising of simulated low-dose PET/MRI images
 - U-Net-based model with optional skip connections or attention modules
-- Evaluation using PSNR, SSIM, and visual metrics
+- Evaluation using PSNR, SSIM, and visual metrics (not showing in demo)
 - Easily extendable for reconstruction or segmentation tasks
 
 ## 🖼️ Sample Result
