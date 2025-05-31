@@ -35,6 +35,8 @@ This dataset is licensed under **CC BY 4.0**
 git clone https://github.com/LI-explorer/AI-Medical-Imaging.git
 cd AI-Medical-Imaging-Recon
 
+# Please download the dataset and save it in specific folder. 
+
 # Install dependencies
 pip install -r requirements.txt
 
